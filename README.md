@@ -1,6 +1,8 @@
 👋 Hey, I'm Noodlebox! 🍜
 
-🍌 I'm currently working on [Bonobo](https://github.com/noodlebox1/Bonobo), a super simple writing app 🍌
+🍌 I made [Bonobo](https://github.com/noodlebox1/Bonobo), a super simple writing app 🍌
+
+🍝 I also made [Canneloni](https://github.com/noodlebox1/canneloni), a list of emails used by spammers 🍝
 
 Have a nice day!
 <!---
